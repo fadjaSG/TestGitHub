@@ -12,6 +12,11 @@ namespace TestGitHub.Controllers
         {
             ViewBag.Message = "Hello world!!! test di modifica";
 
+            /*
+                link delle informazioni da leggere 
+                http://java2easy.blogspot.it/2011/04/cosa-sono-i-servizi-restful.html
+              */
+
             return View();
         }
 
